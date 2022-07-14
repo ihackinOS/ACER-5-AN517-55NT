@@ -20,8 +20,8 @@
 
 # Không hoạt động:
 
-Đồ họa rời
-HDMI
+- Đồ họa rời
+- HDMI
 
 # Link tải
 - [x] https://hackinos.com/topic/70-acer-5-an517-55nt/
